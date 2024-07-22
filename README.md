@@ -2,7 +2,9 @@
 Kashan Saeed's Portfolio Website
 
 Releasing: 
- - Monday, July 21
- - 7:00am
+ - Tuesday, July 23, 2024
+ - 7:00pm
 
-While you wait you can checkout my [GitHub](https://github.com/kashan-saeed)
+The closest thing currently to my portfolio is my [LinkedIn](https://www.linkedin.com/in/kashan-saeed/)
+
+You can also checkout my [GitHub](https://github.com/kashan-saeed)
